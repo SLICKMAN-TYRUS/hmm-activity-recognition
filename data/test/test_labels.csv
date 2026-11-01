@@ -1,0 +1,11 @@
+file,start_s,end_s,activity
+test_seq1.csv,5,14,still
+test_seq1.csv,21,31,standing
+test_seq1.csv,34,44,walking
+test_seq1.csv,49,60,jumping
+test_seq1.csv,66,75,standing
+test_seq2.csv,5,15,still
+test_seq2.csv,21,31,standing
+test_seq2.csv,34,44,walking
+test_seq2.csv,49,58,jumping
+test_seq2.csv,64,75,standing
