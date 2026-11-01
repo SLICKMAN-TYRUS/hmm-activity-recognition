@@ -87,10 +87,10 @@ jupyter notebook notebook.ipynb    # Run All
 
 ## Videos (one per activity, face and full body visible)
 
-- Standing: <paste link>
-- Walking: <paste link>
-- Jumping: <paste link>
-- Still: <paste link>
+- Standing: <https://youtube.com/shorts/hS3hDErXZOc>
+- Walking: <https://youtube.com/shorts/9d5APdDPfDU>
+- Jumping: <https://youtube.com/shorts/BJomT5ubwyY>
+- Still: <https://youtube.com/shorts/OEHCrqjPzsQ>
 
 ## Limitations
 
